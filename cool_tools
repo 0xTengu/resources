@@ -1,20 +1,27 @@
-Cool Tool
+--- Pentesting & Recon Tools ---
 https://github.com/S3cur3Th1sSh1t/Pentest-Tools
-https://github.com/micr0-dev/lexido
 https://github.com/punk-security/dnsReaper
-https://github.com/berylliumsec/nebula
-https://gitlab.com/christosangel/radion
-https://gitlab.com/christosangel/tui-sudoku
 https://github.com/danielmiessler/SecLists
 https://github.com/Tib3rius/AutoRecon
-https://github.com/calebstewart/pwncat
 https://github.com/yogeshojha/rengine
+https://github.com/Yashvendra/Recon-X
+https://github.com/sqlmapproject/sqlmap
+
+--- Exploitation & Post-Exploitation ---
+https://github.com/calebstewart/pwncat
+https://github.com/kgretzky/evilginx2?tab=readme-ov-file
+
+--- OSINT & Documentation ---
 https://github.com/pwndoc/pwndoc
 https://ericzimmerman.github.io/#!index.md
 https://yeti-platform.io/
-https://github.com/kgretzky/evilginx2?tab=readme-ov-file
+
+--- Cool Projects & Utilities ---
+https://github.com/micr0-dev/lexido
+https://gitlab.com/christosangel/radion
+https://gitlab.com/christosangel/tui-sudoku
+https://github.com/berylliumsec/nebula
 https://github.com/jasonxtn
-https://github.com/Yashvendra/Recon-X
-https://github.com/sqlmapproject/sqlmap
-https://github.com/sqlmapproject/sqlmap
+
+--- Specialized Linux Distro ---
 https://tsurugi-linux.org/index.php
