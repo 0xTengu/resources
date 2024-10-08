@@ -1,32 +1,41 @@
-Blogs and Researches
-https://0xsp.com/offensive/privilege-escalation-cheatsheet/
+--- Offensive Research ---
 https://redtm.com/privilege-escalation/linux-privilege-escalation-cheat-sheet/
 https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html
 https://csandker.io/2021/02/21/Offensive-Windows-IPC-2-RPC.html
 https://csandker.io/2022/05/24/Offensive-Windows-IPC-3-ALPC.html
-https://blog.kyleavery.com/posts/avoiding-memory-scanners/
-https://s3cur3th1ssh1t.github.io/
-https://github.com/RoseSecurity
-https://book.hacktricks.xyz/welcome/readme
+
+--- Malware & Exploitation ---
 https://www.vx-underground.org/
 https://0x64marsh.com/?p=314
 https://zer1t0.gitlab.io/posts/attacking_ad/
+https://speakerdeck.com/s1r1us/electrovolt-pwning-popular-desktop-apps-while-uncovering-new-attack-surface-on-electron
+
+--- Security Blogs & Research Platforms ---
+https://blog.kyleavery.com/posts/avoiding-memory-scanners/
+https://s3cur3th1ssh1t.github.io/
 https://www.blackhillsinfosec.com/blog/
 https://www.x86matthew.com/
 https://samcurry.net/blog/
 https://connormcgarr.github.io/
-https://speakerdeck.com/s1r1us/electrovolt-pwning-popular-desktop-apps-while-uncovering-new-attack-surface-on-electron
-https://raw.githubusercontent.com/trustedsec/social-engineer-toolkit/master/readme/User_Manual.pdf
+https://www.vx-underground.org/
+
+--- OSINT, Threat Intelligence, & Reports ---
 https://otx.alienvault.com/
 https://thecyberwire.com/
 https://darknetdiaries.com/
 https://x.com/JackRhysider
 https://krebsonsecurity.com/
-https://darknetdiaries.com/
 https://thedfirreport.com/
 https://www.troyhunt.com/
 https://cetas.turing.ac.uk/sites/default/files/2023-06/cetas_research_report_-_ai_in_wargaming.pdf
+
+--- Security News & White Papers ---
 https://www.bleepingcomputer.com/
 https://threatpost.com/
 https://www.sans.org/white-papers/
 https://isc.sans.edu/
+
+--- Tools & Documentation ---
+https://github.com/RoseSecurity
+https://book.hacktricks.xyz/welcome/readme
+https://raw.githubusercontent.com/trustedsec/social-engineer-toolkit/master/readme/User_Manual.pdf
