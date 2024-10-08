@@ -11,9 +11,13 @@ https://github.com/sqlmapproject/sqlmap
 https://github.com/calebstewart/pwncat
 https://github.com/kgretzky/evilginx2?tab=readme-ov-file
 
---- OSINT & Documentation ---
+--- Documentation ---
 https://github.com/pwndoc/pwndoc
+
+--- Eric Zimmeran Tools ---
 https://ericzimmerman.github.io/#!index.md
+
+--- CTI + DFIR ----
 https://yeti-platform.io/
 
 --- Cool Projects & Utilities ---
@@ -22,6 +26,3 @@ https://gitlab.com/christosangel/radion
 https://gitlab.com/christosangel/tui-sudoku
 https://github.com/berylliumsec/nebula
 https://github.com/jasonxtn
-
---- Specialized Linux Distro ---
-https://tsurugi-linux.org/index.php
