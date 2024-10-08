@@ -3,7 +3,6 @@ https://www.netmux.com/blog/greynoise-cheat-sheet
 https://github.com/tanc7/hacking-books/blob/master/RTFM%20-%20Red%20Team%20Field%20Manual%20v3.pdf
 https://github.com/nirvikagarwal/awesome-ctf-cheatsheet?tab=readme-ov-file
 https://book.hacktricks.xyz/welcome/readme
-https://www.academia.edu/42951791/BTFM_Blue_Team_Field_Manual
 https://www.ired.team/
 
 --- Free Tools & Resources ---
@@ -14,7 +13,7 @@ https://www.geeksforgeeks.org/
 https://app.diagrams.net/
 https://freecomputerbooks.com/
 https://howto.thec2matrix.com/
-https://www.hackerhousebook.com/files/
+https://www.hackerhousebook.com/files/  [requies creds]
 
 --- Penetration Testing & Red Team ---
 https://github.com/0xRadi/OWASP-Web-Checklist
@@ -28,8 +27,9 @@ https://github.com/trustedsec/social-engineer-toolkit
 https://github.com/Veil-Framework/Veil
 https://github.com/A-poc/RedTeam-Tools
 
---- Blue Team Tools ---
+--- Blue Team ---
 https://github.com/A-poc/BlueTeam-Tools
+https://www.academia.edu/42951791/BTFM_Blue_Team_Field_Manual
 
 --- MITRE Resources ---
 https://attack.mitre.org/
