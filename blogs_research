@@ -1,14 +1,7 @@
 --- Offensive Research ---
-https://redtm.com/privilege-escalation/linux-privilege-escalation-cheat-sheet/
 https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html
 https://csandker.io/2021/02/21/Offensive-Windows-IPC-2-RPC.html
 https://csandker.io/2022/05/24/Offensive-Windows-IPC-3-ALPC.html
-
---- Malware & Exploitation ---
-https://www.vx-underground.org/
-https://0x64marsh.com/?p=314
-https://zer1t0.gitlab.io/posts/attacking_ad/
-https://speakerdeck.com/s1r1us/electrovolt-pwning-popular-desktop-apps-while-uncovering-new-attack-surface-on-electron
 
 --- Security Blogs & Research Platforms ---
 https://blog.kyleavery.com/posts/avoiding-memory-scanners/
@@ -28,6 +21,7 @@ https://krebsonsecurity.com/
 https://thedfirreport.com/
 https://www.troyhunt.com/
 https://cetas.turing.ac.uk/sites/default/files/2023-06/cetas_research_report_-_ai_in_wargaming.pdf
+https://www.vx-underground.org/
 
 --- Security News & White Papers ---
 https://www.bleepingcomputer.com/
@@ -35,7 +29,3 @@ https://threatpost.com/
 https://www.sans.org/white-papers/
 https://isc.sans.edu/
 
---- Tools & Documentation ---
-https://github.com/RoseSecurity
-https://book.hacktricks.xyz/welcome/readme
-https://raw.githubusercontent.com/trustedsec/social-engineer-toolkit/master/readme/User_Manual.pdf
