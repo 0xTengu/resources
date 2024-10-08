@@ -1,22 +1,33 @@
-OSINT
+# Tool Collection
 https://github.com/cipher387/osint_stuff_tool_collection
-https://www.youtube.com/c/baldandbankrupt
-https://www.esri.com/en-us/arcgis/products/arcgis-pro/buy#for-individuals
+
+#Link Analysis
+https://www.maltego.com/
+
+# Satellite
+https://satellites.pro/
 https://earth.google.com/web/
 https://www.maltego.com/
-Land & Sea Tracking
+  - GEOINT Training: https://www.esri.com/en-us/arcgis/products/arcgis-pro/buy#for-individuals
+
+# Railway Mapping
 https://www.openrailwaymap.org/
 https://mobility.portal.geops.io/
 https://www.opentraintimes.com/maps
-https://satellites.pro/
-Search Engines
+
+# Vuln & Network Search
 https://www.shodan.io/
 https://search.censys.io/
 https://viz.greynoise.io/
 https://www.zoomeye.org/
+
+# Email / People Search
 https://hunter.io/
+
+# WiFi / Network Mapping
 https://wigle.net/
-Camera Tracking
+
+# Live Cameras
 http://www.insecam.org/
 http://world-webcams.nsspot.net/
 https://www.earthcam.com/
@@ -24,11 +35,14 @@ https://www.fisgonia.com/
 https://worldcam.eu/
 http://www.opentopia.com/hiddencam.php
 https://www.livefromiceland.is/
-Air & Space Tracking
+
+# Aircraft & Flight Tracking
 https://globe.adsbexchange.com/
 https://flightaware.com/live/
 https://www.radarbox.com/
 https://www.airportia.com/
+
+High-Altitude & Space
 https://tracker.habhub.org/
 https://satellitemap.space/
 https://geoxc-apps2.bd.esri.com/Visualization/sat2/index.html
