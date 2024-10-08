@@ -1,34 +1,37 @@
-Materials
+--- Cheat Sheets & Field Manuals ---
 https://www.netmux.com/blog/greynoise-cheat-sheet
 https://github.com/tanc7/hacking-books/blob/master/RTFM%20-%20Red%20Team%20Field%20Manual%20v3.pdf
+https://github.com/nirvikagarwal/awesome-ctf-cheatsheet?tab=readme-ov-file
+https://book.hacktricks.xyz/welcome/readme
+https://www.academia.edu/42951791/BTFM_Blue_Team_Field_Manual
+
+--- Free Tools & Resources ---
 https://www.activecountermeasures.com/free-tools/
 https://opensecuritytraining.info/Training.html
 http://www.pentest-standard.org/index.php/Main_Page
-https://github.com/0xRadi/OWASP-Web-Checklist
-http://www.computersecuritystudent.com/
-https://github.com/swisskyrepo/PayloadsAllTheThings
-https://guyinatuxedo.github.io/
-https://gtfobins.github.io/
-https://github.com/0xRadi/OWASP-Web-Checklist
-https://github.com/RoseSecurity
-https://book.hacktricks.xyz/welcome/readme
-https://freecomputerbooks.com/
-https://www.hackerhousebook.com/files/
 https://www.geeksforgeeks.org/
 https://app.diagrams.net/
+https://freecomputerbooks.com/
 https://howto.thec2matrix.com/
-http://www.pentest-standard.org/index.php/Main_Page
+https://www.hackerhousebook.com/files/
+
+--- Penetration Testing & Red Team ---
+https://github.com/0xRadi/OWASP-Web-Checklist
+http://www.computersecuritystudent.com/
+https://guyinatuxedo.github.io/
+https://gtfobins.github.io/
+https://github.com/RoseSecurity
+https://github.com/swisskyrepo/PayloadsAllTheThings
 https://atomicredteam.io/
 https://www.ired.team/
-https://github.com/nirvikagarwal/awesome-ctf-cheatsheet?tab=readme-ov-file
-https://github.com/swisskyrepo/PayloadsAllTheThings
-MITRE
-https://engage.mitre....org/matrix/
-https://attack.mitre.org/
-https://d3fend.mitre.org/
-https://github.com/A-poc/BlueTeam-Tools
-https://github.com/A-poc/RedTeam-Tools
-https://www.academia.edu/42951791/BTFM_Blue_Team_Field_Manual
-https://github.com/tanc7/hacking-books/blob/master/RTFM%20-%20Red%20Team%20Field%20Manual%20v3.pdf
 https://github.com/trustedsec/social-engineer-toolkit
 https://github.com/Veil-Framework/Veil
+https://github.com/A-poc/RedTeam-Tools
+
+--- Blue Team Tools ---
+https://github.com/A-poc/BlueTeam-Tools
+
+--- MITRE Resources ---
+https://attack.mitre.org/
+https://d3fend.mitre.org/
+https://engage.mitre.org/matrix/
